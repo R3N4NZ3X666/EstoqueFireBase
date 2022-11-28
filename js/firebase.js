@@ -1,13 +1,13 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyAGCbsEEOOxGtHdO3KgZ7F57Mv24EFObeU",
-  authDomain: "pifatecitu-b4fd1.firebaseapp.com",
-  databaseURL: "https://pifatecitu-b4fd1-default-rtdb.firebaseio.com",
-  projectId: "pifatecitu-b4fd1",
-  storageBucket: "pifatecitu-b4fd1.appspot.com",
-  messagingSenderId: "1010314273353",
-  appId: "1:1010314273353:web:88571e9819879a686b5598",
-  measurementId: "G-PRGQS87VQN"
-};
 
+const firebaseConfig = {
+  apiKey: "AIzaSyBwzSlLfpmb4r0lfq9twjSWrJYZtAdlBE8",
+  authDomain: "projeto-1-1392c.firebaseapp.com",
+  databaseURL: "https://projeto-1-1392c-default-rtdb.firebaseio.com",
+  projectId: "projeto-1-1392c",
+  storageBucket: "projeto-1-1392c.appspot.com",
+  messagingSenderId: "715842356950",
+  appId: "1:715842356950:web:faa6d8c54ddd742c4c2b77",
+  measurementId: "G-3W95DY7CJN"
+};
 firebase.initializeApp(firebaseConfig)
 var database = firebase.database()
